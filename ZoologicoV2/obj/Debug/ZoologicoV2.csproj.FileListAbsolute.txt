@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\bin\Debug\ZoologicoV2.exe.config
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\bin\Debug\ZoologicoV2.exe
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\bin\Debug\ZoologicoV2.pdb
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.Form1.resources
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.Properties.Resources.resources
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.csproj.CopyComplete
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.exe
+C:\Users\Administrador\source\repos\ZoologicoV2\ZoologicoV2\obj\Debug\ZoologicoV2.pdb
